@@ -221,3 +221,6 @@ Snippet | Description
 --- | --- 
 fabric-toggle | Toggle with label on above (default).
 fabric-toggle:text-left | Toggle with label on left
+
+
+In the current release, Code snippets are not available for both Facepile and Panel components.
